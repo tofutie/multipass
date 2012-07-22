@@ -1,0 +1,1 @@
+"./main.obj" "./UART_5419A.obj" "./SD_5419A.obj" "./FAT32.obj" -l"libc.a" "../lnk_msp430f5419a.cmd" 
